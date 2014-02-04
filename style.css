@@ -1,0 +1,17 @@
+header {
+
+}
+
+footer {
+ width: 60%;
+ height: 0px;
+ position: absolute;
+ bottom: 0px;
+ margin: auto;44
+}
+
+#content {
+	width: 60%;
+	height: 70%;
+	margin: auto;
+}
